@@ -19,4 +19,4 @@
 #include <algorithm>
 #include <iostream>
 #include <Shlwapi.h>
-
+#include <vector>
